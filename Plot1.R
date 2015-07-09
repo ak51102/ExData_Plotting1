@@ -1,5 +1,5 @@
 #Store household_power_consumption.txt file path in filePath variable
-filePath <- "household_power_consumption.txt"
+filePath <- "./Data/household_power_consumption.txt"
 
 #Read data from file
 #1. Set header=TRUE -> Signifies that file has header
